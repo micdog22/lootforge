@@ -1,0 +1,14 @@
+
+{
+  "name": "Starter Banner",
+  "pityRules": {
+    "legendary": { "threshold": 50 },
+    "rare": { "threshold": 10 }
+  },
+  "entries": [
+    { "id": "sword_common", "rarity": "common", "weight": 70 },
+    { "id": "bow_common", "rarity": "common", "weight": 30 },
+    { "id": "staff_rare", "rarity": "rare", "weight": 4, "minLevel": 3 },
+    { "id": "blade_legend", "rarity": "legendary", "weight": 1, "tags": ["limited"] }
+  ]
+}
